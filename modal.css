@@ -1,0 +1,19 @@
+body{
+    background-image:url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.h5{
+    text-align: center;
+    
+}
+#img1{
+    margin:auto;
+
+    
+}
+#button{
+    float:right;
+}
+
